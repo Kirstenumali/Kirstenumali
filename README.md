@@ -1,5 +1,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/Kirstenumali?style=social)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/7uv-odLEEP4?si=72aN23LoJVVA_ObB)]
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/7uv-odLEEP4?si=72aN23LoJVVA_ObB)
 ![A fun GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 <h1 align="center">Hi there, I'm Kirstenumali 👋</h1>
 
