@@ -13,4 +13,5 @@ I'm a software engineer specializing in Python, Linux, Java, JavaScript, and so 
 - Java | Android Studio | Git | GitHub
 
 ## ⚡ Fun Facts
-- I enjoy integrating various APIs and tools to build seamless solutions that just work.
+- I enjoy Integrating various APIs and tools to build seamless solutions that work.
+- As a woman in Technology, specializing in Cybersecurity and Software Engineering, I believe that every programmer was once a beginner."
