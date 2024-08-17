@@ -1,1 +1,2 @@
-[Youtube]([https://youtube/carper_wiske4321])
+- Programming Languages: Java, JavaScript, Python
+- Tools: Android Studio, Git, GitHub
