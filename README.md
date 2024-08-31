@@ -1,6 +1,6 @@
 # Hello, I'm **KirstenUmali**👋
 
-I'm a software engineer specializing in Python, Linux, Java, JavaScript, and so on.
+I'm a software engineer specializing in Python, Linux, Java, JavaScript, etc.
 
 ## 🔭 Current Projects & Portfolio 
 - [Project 1](https://youtu.be/7uv-odLEEP4?si=D5vYI9SXlxM5CMTe)
@@ -14,5 +14,4 @@ I'm a software engineer specializing in Python, Linux, Java, JavaScript, and so 
 
 ## ⚡ Fun Facts
 - I enjoy Integrating various APIs and tools to build seamless solutions that work.
-- As a woman in Technology, specializing in Cybersecurity and Software Engineering, I believe that every programmer was once a beginner.
-- Everyday is a new beggining. 
+- As a woman in Technology, specializing in Cybersecurity and Software Engineering, I believe every programmer was once a beginner.
