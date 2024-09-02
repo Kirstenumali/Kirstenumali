@@ -1,6 +1,6 @@
-# Hello, I'm **KirstenUmali**👋
+# Hello, I'm **Kirsten Umali**👋
 
-I'm a software engineer specializing in Python, Linux, Java, JavaScript, etc.
+I'm a software engineer specializing in Python, Linux, Java, JavaScript, and etc.
 
 ## 🔭 Current Projects & Portfolio 
 - [Project 1](https://youtu.be/7uv-odLEEP4?si=D5vYI9SXlxM5CMTe)
