@@ -13,4 +13,4 @@ I'm a Software Engineer specializing in Python, Linux, Java, JavaScript, and etc
 - Java | Android Studio | Git | GitHub
 
 ## ⚡ Fun Facts
-- I enjoy Integrating various APIs and tools to build seamless solutions that work.
+- I enjoy Integrating various APIs and tools to build ideal solutions that work.
