@@ -10,7 +10,7 @@ I'm a Software Engineer specializing in Python, Linux, Java, JavaScript, and etc
 - [Instagram](https://www.instagram.com/carper_wiske?igsh=MWMxM3NmZ3Vrdjl1eA%3D%3D&utm_source=qr)
 
 ## 🛠️ Technologies & Tools
-- Java | Android Studio | Git | GitHub | Linux | JavaScript | Kotlin
+- Java | Android Studio | Git | GitHub | Kali Linux | JavaScript | Kotlin 
 
 ## ⚡ Fun Facts
 - I enjoy Integrating various APIs and tools to build ideal solutions that work.
