@@ -5,7 +5,8 @@ I'm a Software Engineer specializing in Python, Linux, Java, JavaScript, and so 
 ## 🔭 Current Projects & Portfolio 
 - [Project 1](https://youtu.be/7uv-odLEEP4?si=D5vYI9SXlxM5CMTe)
 - [Project 2](https://youtu.be/uV3Ny2erO10?si=M7qTch0h76oA4xxr) 
-- [Project 3](https://youtu.be/uV3Ny2erO10?si=M7qTch0h76oA4xxr) 
+- [Project 3](https://youtu.be/uV3Ny2erO10?si=M7qTch0h76oA4xxr)
+- [Project 4](https://youtu.be/7uv-odLEEP4?si=D5vYI9SXlxM5CMTe)
 
 ## 📫 How to Reach Me
 - [Instagram](https://www.instagram.com/carper_wiske?igsh=MWMxM3NmZ3Vrdjl1eA%3D%3D&utm_source=qr)
