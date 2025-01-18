@@ -10,7 +10,7 @@ I'm a Software Engineer specializing in Python, Linux, Java, JavaScript, and so 
 - [Instagram](https://www.instagram.com/carper_wiske?igsh=MWMxM3NmZ3Vrdjl1eA%3D%3D&utm_source=qr)
 
 ## 🛠️ Technologies & Tools
-- Android Studio | Git | GitHub | Kali Linux | JavaScript | Kotlin | Python | TypeScript | Wireshark | Burp Suite | Ethical Hacker | Cybersecurity | HTML | CSS | API's | Restful API's | React | Android Developer | Java | Web Application Hacker
+- Android Studio | Git | GitHub | Kali Linux | JavaScript | Kotlin | Python | TypeScript | Wireshark | Burp Suite | Ethical Hacker | Cybersecurity | HTML | CSS | API's | Restful API's | React | Android Developer | Java | Web Application Hacker | AWS 2x
 
 ## ⚡ Fun Facts
 - I enjoy Integrating various APIs and tools to build ideal solutions that work.
