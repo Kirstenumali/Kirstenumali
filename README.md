@@ -14,4 +14,4 @@ I'm a Software Engineer that specializing in Python, Linux, Java, JavaScript, an
 
 ## ⚡ Fun Facts
 - I enjoy Integrating various APIs and tools to build ideal solutions that work.
-- I  appreciate devoting my free time to the coding process since it enables me to overcome difficult challenges, develop my creativity, and acquire new abilities while working on projects that capture my interest and ignite my passion for technologies truly.
+- I  appreciate devoting my free time to the coding process since it enables me to overcome difficult challenges.
